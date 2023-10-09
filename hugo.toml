@@ -1,0 +1,4 @@
+baseURL = 'https://bo520.github.io/'
+languageCode = 'zh-cn'
+title = 'Bo Blog'
+theme = 'ananke'
